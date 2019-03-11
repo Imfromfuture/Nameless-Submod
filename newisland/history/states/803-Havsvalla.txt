@@ -1,0 +1,26 @@
+state={
+	id=803
+	name="STATE_803"
+
+	state_category = large_town
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+
+		buildings = {
+		infrastructure = 7
+		industrial_complex = 1
+		air_base = 5
+		13218 = {
+			naval_base = 7
+		}
+	}
+}
+
+	provinces = {
+		13218 13219 13220 13221 13222 13223 13224 13226 
+	}
+	manpower=1233649
+	buildings_max_level_factor=1.000
+}

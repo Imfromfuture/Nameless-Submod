@@ -1,0 +1,24 @@
+state={
+	id=790
+	name="STATE_790"
+
+	state_category = town
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+
+		buildings = {
+		infrastructure = 6
+		naval_dockyard = 1
+		industrial_complex = 2
+		air_base = 5
+	}
+}
+
+	provinces = {
+		13254 13262 13275 13278 13283 13295 
+	}
+	manpower=1762812
+	buildings_max_level_factor=1.000
+}

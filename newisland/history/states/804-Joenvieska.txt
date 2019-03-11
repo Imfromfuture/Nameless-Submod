@@ -1,0 +1,21 @@
+state={
+	id=804
+	name="STATE_804"
+
+	state_category = town
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+
+		buildings = {
+		infrastructure = 6
+	}
+}
+
+	provinces={
+		13227 13235 13236 13242 13252 
+	}
+	manpower = 725252
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=793
+	name="STATE_793"
+
+	state_category = rural
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+
+		buildings = {
+		infrastructure = 7
+		industrial_complex = 2
+		13246 = {
+			naval_base = 4
+		}
+	}
+}
+
+	provinces = {
+		13234 13246 13253 13258 13264 13280 
+	}
+	manpower=837253
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=800
+	name="STATE_800"
+
+	state_category = town
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+
+		buildings = {
+		infrastructure = 7
+		arms_factory = 1
+		13308 = {
+			naval_base = 5
+		}
+	}
+}
+
+	provinces = {
+		13292 13294 13296 13298 13304 13308 13310 
+	}
+	manpower=789515
+	buildings_max_level_factor=1.000
+}
